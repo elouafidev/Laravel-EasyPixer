@@ -5,7 +5,7 @@ Provides an easy to use Laravel package for fixer.io exchange rates and currency
 ## Installation
 Run the following from the root of your Laravel app.
 
-``composer require elouafi/laravel-easyfixerapi``
+``composer require eluafidev/laravel-easyfixerapi``
 
 ## Usage
 
