@@ -1,0 +1,25 @@
+{
+  "name": "eluafidev/laravel-easyfixerapi",
+  "keywords": [
+    "meta",
+    "tags",
+    "fixer",
+    "laravel"
+  ],
+  "description": "Laravel package/client for fixer.io api, a foreign exchange rates and currency conversion API.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Elouafi",
+      "email": "support@elouafi.dev"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElouafiDev\\EasyFixerApi\\": "src"
+    }
+  }
+}
